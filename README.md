@@ -11,3 +11,4 @@
 
 ### sh
 * [sync](/sh/sync.sh) 자동 동기화 script
+* [vimdiff](/sh/vimdiff.sh) svn diff 시 vimdiff로 볼 수 있는 script
