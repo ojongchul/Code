@@ -7,6 +7,7 @@
 
 ### js
 * [SpliceString](/js/SpliceString.js) 문자열에서 숫자(와 쉼표)를 분리해 태그로 씌우는 함수
+* [Amount](/js/Amount.js) 한화 금액 변환 함수
 
 ### sh
 * [sync](/sh/sync.sh) 자동 동기화 script
